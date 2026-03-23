@@ -3,9 +3,9 @@ title: "Reproducibility code for Quantum chaos and complexity from string scatte
 message: "If you use this repository, please cite the Zenodo DOI and the associated paper."
 type: software
 authors:
- 1) - family-names: Bhattacharya
+ - family-names: Bhattacharya
     given-names: Aranya
- 2) - family-names: Jana
+ - family-names: Jana
     given-names: Aneek
 
 repository-code: "https://github.com/aranyabh1993/HESS_Krylov"
