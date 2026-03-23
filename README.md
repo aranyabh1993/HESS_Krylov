@@ -11,3 +11,4 @@ HESS_Krylov/
 ├── 3pt_dataplots            # data and codes for HESS to two tachyons
 ├── 4ptReggeN400             #data and codes for HESS to three Tachyons with string excitation level 400
 ├── 4ptRegge_dataplots            #data and codes for HESS to three Tachyons
+DOI: https://doi.org/10.5281/zenodo.19186568
