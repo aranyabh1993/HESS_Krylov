@@ -1,11 +1,14 @@
 cff-version: 1.2.0
-title: "Reproducibility code for Quantum chaos and complexity from string scattering amplitudes"
-message: "If you use this repository, please cite the Zenodo DOI and the associated paper."
-type: software
+message: "If you use this software, please cite it as below."
 authors:
-
-
-repository-code: "https://github.com/aranyabh1993/HESS_Krylov"
-license: MIT
-version: 1.0.0
+- family-names: "Bhattacharya"
+  given-names: "Aranya"
+  orcid: "https://orcid.org/0000-0002-1882-4177"
+- family-names: "Jana"
+  given-names: "Aneek"
+  orcid: "https://orcid.org/0009-0001-1097-4250"
+title: "Reproducibility code for Quantum Chaos and complexity from string scattering amplitudes"
+version: 2.0.4
 date-released: 2026-03-23
+url: "https://github.com/aranyabh1993/HESS_Krylov"
+
