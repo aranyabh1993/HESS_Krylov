@@ -1,4 +1,4 @@
-cff-version: 1.2.0
+cff-version: 1.1.0
 message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Bhattacharya"
@@ -8,7 +8,7 @@ authors:
   given-names: "Aneek"
   orcid: "https://orcid.org/0009-0001-1097-4250"
 title: "Reproducibility code for Quantum Chaos and complexity from string scattering amplitudes"
-version: 2.0.4
+version: 1.0.0
 doi: 10.5281/zenodo.19186568
 date-released: 2026-03-23
 url: "https://github.com/aranyabh1993/HESS_Krylov"
